@@ -29,15 +29,14 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 
 | Skill | Associated Project |
 |---------|---------|
-| AWS EC2 Deployment | AWS T-Pot Honeypot |
-| Linux Administration | AWS T-Pot Honeypot |
-| SSH Authentication & Remote Access | AWS T-Pot Honeypot |
-| Cloud Infrastructure Configuration | AWS T-Pot Honeypot |
-| Security Group Management | AWS T-Pot Honeypot |
-| Kibana Dashboard Access & Monitoring | AWS T-Pot Honeypot |
-| Cybersecurity Project Documentation | AWS T-Pot Honeypot |
+| AWS EC2 Deployment | [AWS T-Pot Honeypm/ilambrakis/aws-tpot-honeypot |
+| Linux Administration | [AWS T-Pot hub.com/ilambrakis/aws-tpot-honeypot |
+| SSH Authentication & Remote Access | [AWS T-Pot Honeypm/ilambrakis/aws-tpot-honeypot |
+| Cloud Infrastructure Configuration | https://github.com/ilambrakis/aws-tpot-honeypot |
+| Security Group Management | [AWS T-Pot Honeypot](ambrakis/aws-tpot-honeypot |
+| Kibana Dashboard Access & Monitoring | [AWS T-Pot Honeypot](https://githubpot-honeypot |
+| Cybersecurity Project Documentation | [AWS T-Pot Honeypot](https://github.comhoneypot |
 | Active Directory Administration | Active Directory Home Lab (In Progress) |
-
 ---
 
 ## Tools
