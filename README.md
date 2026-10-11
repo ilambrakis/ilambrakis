@@ -29,13 +29,13 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 
 | Skill | Associated Project |
 |--------|--------|
-| AWS EC2 Deployment | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Linux Administration | https://github.com/ilambrakis/aws-tpot-honeypot |
-| SSH Authentication & Remote Access | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Cloud Infrastructure Configuration | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Security Group Management | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Kibana Dashboard Access & Monitoring | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Cybersecurity Project Documentation | https://github.com/ilambrakis/aws-tpot-honeypot |
+| AWS EC2 Deployment | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| Linux Administration | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| SSH Authentication & Remote Access | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| Cloud Infrastructure Configuration | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| Security Group Management | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| Kibana Dashboard Access & Monitoring | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
+| Cybersecurity Project Documentation | <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot</a> |
 | Active Directory Administration | Active Directory Home Lab (In Progress) |
 ---
 
@@ -79,12 +79,10 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 
 ## Projects
 
-### AWS T-Pot Honeypot Deployment
+### <a href="https://github.com/ilambrakis/aws-tpot-honeypot">AWS Tpot Honeypot Deployment</a>
 
 Deployed a T-Pot honeypot on AWS EC2 using Ubuntu Linux. Configured SSH authentication, AWS Security Groups, Kibana dashboards, and cloud-based monitoring infrastructure while troubleshooting Linux, networking, and deployment issues.
 
-Repository:
-https://github.com/ilambrakis/aws-tpot-honeypot/blob/main/README.md
 
 ---
 
