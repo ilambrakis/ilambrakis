@@ -17,3 +17,8 @@ I enjoy building hands-on projects and labs to strengthen my skills in Linux adm
 Currently studying for the CompTIA Security+ certification while expanding my cybersecurity portfolio through cloud-based and home lab projects.
 
 ---
+## 🎯 Objective
+
+My goal is to begin my cybersecurity career as a Security Operations Center (SOC) Analyst, where I can apply skills in threat detection, security monitoring, incident response, and cloud security.
+
+As a Cybersecurity student with a minor in Artificial Intelligence, I am actively developing technical skills through hands-on projects, home labs, coursework, and preparation for the CompTIA Security+ certification.
