@@ -22,3 +22,17 @@ Currently studying for the CompTIA Security+ certification while expanding my cy
 My goal is to begin my cybersecurity career as a Security Operations Center (SOC) Analyst, where I can apply skills in threat detection, security monitoring, incident response, and cloud security.
 
 As a Cybersecurity student with a minor in Artificial Intelligence, I am actively developing technical skills through hands-on projects, home labs, coursework, and preparation for the CompTIA Security+ certification.
+---
+
+## Skills
+
+| Skill | Associated Project |
+|---------|---------|
+| AWS EC2 Deployment | AWS T-Pot Honeypot |
+| Linux Administration | AWS T-Pot Honeypot |
+| SSH Authentication & Remote Access | AWS T-Pot Honeypot |
+| Cloud Infrastructure Configuration | AWS T-Pot Honeypot |
+| Security Group Management | AWS T-Pot Honeypot |
+| Kibana Dashboard Access & Monitoring | AWS T-Pot Honeypot |
+| Cybersecurity Project Documentation | AWS T-Pot Honeypot |
+| Active Directory Administration | Active Directory Home Lab (In Progress) |
