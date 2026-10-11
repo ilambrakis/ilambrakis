@@ -28,14 +28,14 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 ## Skills
 
 | Skill | Associated Project |
-|---------|---------|
-| AWS EC2 Deployment | [AWS T-Pot Honeypm/ilambrakis/aws-tpot-honeypot |
-| Linux Administration | [AWS T-Pot hub.com/ilambrakis/aws-tpot-honeypot |
-| SSH Authentication & Remote Access | [AWS T-Pot Honeypm/ilambrakis/aws-tpot-honeypot |
-| Cloud Infrastructure Configuration | https://github.com/ilambrakis/aws-tpot-honeypot |
-| Security Group Management | [AWS T-Pot Honeypot](ambrakis/aws-tpot-honeypot |
-| Kibana Dashboard Access & Monitoring | [AWS T-Pot Honeypot](https://githubpot-honeypot |
-| Cybersecurity Project Documentation | [AWS T-Pot Honeypot](https://github.comhoneypot |
+|--------|--------|
+| AWS EC2 Deployment | <a href="https://github.comis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| Linux Administration | <a href="https://m/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| SSH Authentication & Remote Access | https://github.com/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| Cloud Infrastructure Configuration | https://github.com/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| Security Group Management | <a href/github.com/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| Kibana Dashboard Access & Monitoring | https://github.com/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
+| Cybersecurity Project Documentation | https://github.com/ilambrakis/aws-tpot-honeypotAWS T-Pot Honeypot</a> |
 | Active Directory Administration | Active Directory Home Lab (In Progress) |
 ---
 
