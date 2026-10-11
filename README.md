@@ -85,6 +85,7 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 Deployed a T-Pot honeypot on AWS EC2 using Ubuntu Linux. Configured SSH authentication, AWS Security Groups, Kibana dashboards, and cloud-based monitoring infrastructure while troubleshooting Linux, networking, and deployment issues.
 
 Repository:
+https://github.com/ilambrakis/aws-tpot-honeypot/blob/main/README.md
 
 ---
 
