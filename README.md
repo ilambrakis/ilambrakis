@@ -8,7 +8,7 @@
 
 ---
 
-## 🛡️ About Me
+## About Me
 
 I'm a Cybersecurity student pursuing a minor in Artificial Intelligence with a strong interest in Security Operations, threat detection, cloud security, and defensive cybersecurity.
 
@@ -17,11 +17,12 @@ I enjoy building hands-on projects and labs to strengthen my skills in Linux adm
 Currently studying for the CompTIA Security+ certification while expanding my cybersecurity portfolio through cloud-based and home lab projects.
 
 ---
-## 🎯 Objective
+## Objective
 
 My goal is to begin my cybersecurity career as a Security Operations Center (SOC) Analyst, where I can apply skills in threat detection, security monitoring, incident response, and cloud security.
 
 I am actively developing these skills through hands-on projects, home labs, cybersecurity coursework, and preparation for the CompTIA Security+ certification.
+
 ---
 
 ## Skills
@@ -39,3 +40,55 @@ I am actively developing these skills through hands-on projects, home labs, cybe
 
 ---
 
+## Tools
+
+### Cloud
+
+- AWS EC2
+
+### Operating Systems
+
+- Windows
+- Ubuntu Linux
+- Kali Linux
+
+### Security
+
+- T-Pot
+- Kibana
+- Elasticsearch
+
+### Networking
+
+- SSH
+- AWS Security Groups
+
+### Virtualization
+
+- VirtualBox
+
+### Version Control
+
+- GitHub
+---
+
+## Certifications
+
+- CompTIA Security+ (In Progress)
+
+---
+
+## Projects
+
+### AWS T-Pot Honeypot Deployment
+
+Deployed a T-Pot honeypot on AWS EC2 using Ubuntu Linux. Configured SSH authentication, AWS Security Groups, Kibana dashboards, and cloud-based monitoring infrastructure while troubleshooting Linux, networking, and deployment issues.
+
+🔗 Repository:
+https://github.com/ilianalambrakis-glitch/aws-tpot-honeypot
+
+---
+
+### Active Directory Home Lab (In Progress)
+
+Building a Windows Active Directory environment to practice SOC analyst workflows, authentication monitoring, log analysis, incident response, and threat detection.
